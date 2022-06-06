@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skynics-Smart-System
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in adding value to your project.
+- 🌱 I’m currently looking to provide  software development services.
 - 💞️ I’m looking to collaborate on c#, OpenCV, Python.
 - 📫 How to reach me shailesh.mer@gmail.com.
 
